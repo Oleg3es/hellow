@@ -10,4 +10,3 @@ if (command != null)
         a = Int32.Parse(Console.ReadLine());
     }
 }
-Console.WriteLine("sodjup");
