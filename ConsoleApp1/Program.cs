@@ -1,1 +1,2 @@
-﻿Console.WriteLine("helloworld");
+﻿int a = new int();
+
